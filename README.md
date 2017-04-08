@@ -1,4 +1,13 @@
-# Exercises 
+# Async workshop 
+
+## Getting started
+
+1. Fork this repo so you can push your changes when you finish
+2. Make sure you have installed node `v7.8.0`
+3. Perform a `npm i` in the project folder.
+4. Code
+
+## Exercises
 
 ### Refactor Callbacks
 
